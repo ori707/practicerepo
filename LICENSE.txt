@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "The MIT License(MIT) / Copyright (c) 2026 suichan3060@gmail.com"
+Permission is hereby granted,
